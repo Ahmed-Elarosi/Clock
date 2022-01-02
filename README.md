@@ -1,5 +1,5 @@
 # Clock
 
 
-![Clock].(https://ibb.co/ZKLX0hV)
+![Clock].(https://i.ibb.co/ctg3jN1/clock.png)
 
