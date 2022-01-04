@@ -93,7 +93,7 @@ body {
   right: 20rem;
   z-index: 100;
 }
-
+/* mobile */
 @media (max-width: 414px) {
   .clock {
     width: 35rem;
